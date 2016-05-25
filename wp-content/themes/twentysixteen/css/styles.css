@@ -1,0 +1,52 @@
+body{
+	background-image: url("/wp-content/uploads/2016/05/bricks.jpg");
+}
+
+#page{
+	max-width: 900px;
+	margin: auto;
+}
+
+.site-branding{
+	width: 100%;
+	padding-bottom: 10px;
+	border-bottom: 2px solid #a0a0b2;
+	margin-bottom: 0;
+}
+
+#site-title-custom{
+	width: 70%;
+	float: left;
+}
+
+#site-title-custom a{
+	font-size: 42px;
+	line-height: 42px;
+	color: #a0a0b2;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.site-description{
+	width: 30%;
+	float: right;
+	text-align: right;
+}
+
+#menu-header-nav li{
+	text-transform: uppercase;
+}
+#site-header-menu{
+	margin-top: 10px;
+	width: 100%;
+}
+#site-navigation{
+	float: left;
+}
+#contact-email{
+	float: right;
+}
+#primary{
+	width: 100%;
+	float: none;
+	margin-left:  0px;
+}
